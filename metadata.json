@@ -1,0 +1,6 @@
+{
+  "name": "Jili Color Prediction Game & Real-Time Admin Control",
+  "description": "Real-time casino color prediction game with Jili API integration, live betting board, provably fair trend charts, and an Admin Control Panel to manage user bets, house edge, and round results in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
